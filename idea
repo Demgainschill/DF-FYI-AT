@@ -1,0 +1,23 @@
+Tool that using df fyi and at for time scheduling notif for disk space notifications 
+
+to schedule notification timings using at to provide notice
+
+ExecStart=a dynamic service file will be generated
+create a timer file based on the script that checks for every hour
+
+enable both service and timer file
+
+the script then checks if 
+
+at fyi df 
+
+df for disk usage a minimum threshold must be persistent everytime
+fyi for notification of command 
+at for scheduling initial tas
+
+if name and at then p optional 
+if -l anywhere then only list
+if -a make sure -n must
+
+  
+
